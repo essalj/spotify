@@ -1,0 +1,52 @@
+Host:                 .accounts.spotify.com
+Host raw:             .accounts.spotify.com
+Name:                 csrf_token
+Name raw:             csrf_token
+Path:                 /
+Path raw:             /
+Content:              AQBV7316ZODQ-LJKLmmZkks-NgS9wPeeOz1gPx1X_WZnRsfTsocMoKBt9xwh_0W24I11DUwcYlfm2cE
+Content raw:          AQBV7316ZODQ-LJKLmmZkks-NgS9wPeeOz1gPx1X_WZnRsfTsocMoKBt9xwh_0W24I11DUwcYlfm2cE
+Expires:              At end of session
+Expires raw:          0
+Send for:             Encrypted connections only
+Send for raw:         true
+Created:              13 November 2017, 04.52.56 GMT+1
+Created raw:          1510545175558508
+Last accessed:        13 November 2017, 04.52.56 GMT+1
+Last accessed raw:    1510545175558508
+HTTP only:            No
+HTTP only raw:        false
+This domain only:     Yes
+This domain only raw: true
+Policy:               no information available
+Policy raw:           0
+Status:               no information available
+Status raw:           0
+originAttributes:     {"appId":0,"firstPartyDomain":"","inIsolatedMozBrowser":false,"privateBrowsingId":0,"userContextId":0}
+---
+Host:                 .accounts.spotify.com
+Host raw:             .accounts.spotify.com
+Name:                 remember
+Name raw:             remember
+Path:                 /
+Path raw:             /
+Content:              celiche
+Content raw:          celiche
+Expires:              At end of session
+Expires raw:          0
+Send for:             Any type of connection
+Send for raw:         false
+Created:              13 November 2017, 04.52.56 GMT+1
+Created raw:          1510545175558594
+Last accessed:        13 November 2017, 04.52.56 GMT+1
+Last accessed raw:    1510545175558594
+HTTP only:            No
+HTTP only raw:        false
+This domain only:     Yes
+This domain only raw: true
+Policy:               no information available
+Policy raw:           0
+Status:               no information available
+Status raw:           0
+originAttributes:     {"appId":0,"firstPartyDomain":"","inIsolatedMozBrowser":false,"privateBrowsingId":0,"userContextId":0}
+---
